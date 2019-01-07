@@ -4,8 +4,12 @@
 body{
     background-color: aquamarine;
     background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
+.header{
 
+}
 /*==================Logotype-start========================*/
 .logo-h {
   margin-top: -12px;
