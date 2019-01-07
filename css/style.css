@@ -2,8 +2,8 @@
     transition: 1s;
 }
 body{
-    background-image: url(../img/bg-header.jpg);
     background-color: aquamarine;
+    background-image: url(../img/bg-header.jpg);
 }
 
 /*==================Logotype-start========================*/
