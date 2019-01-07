@@ -1,0 +1,50 @@
+*{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;    
+}
+body{
+    background: url(../img/bg.jpg);
+    background-size:cover;
+    background-repeat:repeat-y;
+    overflow-x: hidden;
+}
+.gl_menu{
+    padding: 0px;
+    display: block;
+    background-size:100% 100%;
+    background-repeat: repeat-y;
+}
+.item a{
+    display: block;
+    text-decoration: none;
+    color: wheat;
+    font-weight: bold;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+    padding: 8px 8px 8px 8px;
+    background: rgba(0,0,0,0.8);
+    width: 250px;
+    height: 45px;
+    margin: 0 auto;
+}
+.item{
+    width: 200px;
+    height: 50px;
+    text-align:center;
+}
+.left{
+    background: url(../img/bg2.png);
+}
+.top{
+    margin: 0px;
+    height: 20px;
+    background: url(../img/bg2.png);
+}
+/*colors*/
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
