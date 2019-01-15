@@ -9,7 +9,7 @@ h1{
     font-family: "Intervogue Soft";
     font-size: 60px;
     width: 258px;
-    margin: 20px auto -40px;
+    margin: 20px auto -42px;
 }
 h2{
     font-family: "Intervogue Soft regular";
@@ -17,6 +17,6 @@ h2{
     height: 124px;
     width: 350px;
     margin: 10px auto;
-    padding: 25px;
+    padding: 30px;
     background: url(bg.jpg);
 }
