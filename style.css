@@ -15,6 +15,9 @@ body{
 .orange{
     color:#ff8400;
 }
+a:any-link{
+    text-decoration: none;
+}
 h1{
     font-family: "isb";
     font-size: 60px;
@@ -29,4 +32,26 @@ h2{
     margin: 10px auto;
     padding: 32px;
     background: url(bg.jpg);
+}
+.links{
+    margin: 70px 0;
+}
+.link{
+    font-family: "isr";
+    font-size: 26px;
+    border: 2px solid;
+    border-color: inherit;
+    width: 150px;
+    padding: 10px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 2px;
+    color: inherit;
+}
+.link:hover{
+/*    background-color: #ff8400;*/
+    color: inherit;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border: 2px solid;
+    border-color:#ff8400;
 }
